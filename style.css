@@ -1,0 +1,67 @@
+html{
+    width: 100%;
+    height: 100%;
+    margin: 0%;
+    padding: 0%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    font-family: Times New Roman (serif);
+    background:black;
+    width: 100%;
+    height: 100%;
+    background-image: url(gym_bg.jpg);
+    background-size: cover;
+
+}
+.topnav{
+    background-color: aquamarine;
+    
+    float: left;
+    width: 100%;
+    height: 50px;
+padding: 10px;
+}
+
+.nav-tabs
+{
+    margin-left: 20px;
+    margin-right: 20px;
+    text-decoration: none;
+    
+}
+.mainh1{
+    color: blanchedalmond;
+    font-family:fantasy;
+    font-size: 80px;
+}
+p{
+    color: white;
+}
+.btn-start{
+    background:transparent;
+    color: thistle;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bolder;
+    text-transform: capitalize;
+    display: block;
+    margin: auto;
+    padding: 10px;
+    width: 100px;
+}
+.navdiv a {
+    float: right;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  .navdiv a:hover {
+    background: #ddd;
+    color: black;
+  }
+  
